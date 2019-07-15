@@ -8,7 +8,7 @@ def fizzbuzz(int)
   elsif int % 5 == 0
     return "Buzz"
   
-  elsif (int % 3 == 0 
+  elsif int % 3 == 0 
     return "Fizz"
   end
 end
