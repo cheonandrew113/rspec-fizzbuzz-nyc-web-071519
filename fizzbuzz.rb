@@ -11,7 +11,3 @@ def fizzbuzz(int)
   if int % 3 =! 0 %! int % 5 =! 0  
   end
 end
-
-fizzbuzz(3)
-fizzbuzz(5)
-fizzbuzz(15)
